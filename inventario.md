@@ -1,6 +1,8 @@
 2075521
 2076432
-##componenti
+## componenti
 [Schede Madri](componenti/schede_madri.md)
 [Processori](componenti/processori.md)
+## periferiche
+[Periferiche](periferiche)
 Elettronica Padovana
